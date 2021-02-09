@@ -1,0 +1,3 @@
+[submodule "mrs_hw_uvdar"]
+	path = mrs_hw_uvdar
+	url = git@github.com:ctu-mrs/mrs_hw_uvdar.git
