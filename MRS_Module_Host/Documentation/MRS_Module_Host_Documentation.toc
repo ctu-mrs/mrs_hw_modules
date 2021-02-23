@@ -1,0 +1,7 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{1}%
+\contentsline {section}{\numberline {2}Dimensions}{2}%
+\contentsline {section}{\numberline {3}Connectors}{3}%
+\contentsline {subsection}{\numberline {3.1}Connector Placement Drawing}{3}%
+\contentsline {section}{\numberline {4}Bill Of Materials and Assembly Drawings}{4}%
+\contentsline {section}{\numberline {5}Schematic}{6}%
